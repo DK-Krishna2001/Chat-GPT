@@ -1,0 +1,3 @@
+# Chat GPT
+
+ChatGPT, developed by OpenAI based is an advanced language model designed to understand and generate human-like text. It produces coherent and contextually relevant responses, making it suitable for diverse applications such as customer support, content creation, tutoring, and conversational AI. This project demonstrates ChatGPT's capabilities by integrating it into various use cases, showcasing its proficiency in natural language understanding and generation. Trained on extensive datasets, ChatGPT can handle a wide range of topics and respond accurately to complex queries, highlighting its versatility and adaptability.
